@@ -76,3 +76,5 @@ Ctrl + s
 
     git branch <branch_name>
 где <branch_name> имя создаваемой ветки.
+
+## Просмотр активных веток
